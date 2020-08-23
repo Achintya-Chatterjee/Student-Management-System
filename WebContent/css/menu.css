@@ -1,0 +1,29 @@
+ul
+	{
+		
+		background-color:#000080;
+		overflow:hidden;
+		list-style-type:none;
+	}
+	li
+	{
+		
+		float:left;
+	}
+	li a
+	{
+		text-decoration:none;
+		color:white;
+		padding:20px;
+		display:block;
+		
+	}
+	li a:hover
+	{
+		background-color:yellow;
+		color:black;
+	}
+	h1
+	{
+		padding:20px;
+	}

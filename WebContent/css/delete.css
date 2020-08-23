@@ -1,0 +1,13 @@
+body
+{
+	background-image: url('../images/tree.jpg')
+}
+dtable
+{
+	width:30%;
+	margin-left: 35%;
+	background-color:black;
+	padding:20px;
+	opacity: 0.8;
+	color:#2A8201;	
+}
