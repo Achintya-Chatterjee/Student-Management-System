@@ -1,7 +1,7 @@
     # Student-Management-System
     
     student management system 
-where admin can add can add student 
+where admin can add a student 
 Delete A Student
 update their activity
 This project is based on java, servelt,jdbc
